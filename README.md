@@ -21,9 +21,9 @@ Node.js: Descargar e instalar Node.js.
 Docker: Instalar Docker.
 
 - Pasos para ejecutar el proyecto luego de clonarlo
-  construye la imagen
+-construye la imagen
 - docker build -t nombre-imagen .
-  ejecuta la imagen
+-ejecuta la imagen
 -docker run -p 80:80 nombre-imagen
-Esto levantará el contenedor y la aplicación será accesible a través de tu navegador en la dirección
- http://localhost:8080.
+-Esto levantará el contenedor y la aplicación será accesible a través de tu navegador en la dirección
+ -http://localhost:8080.
